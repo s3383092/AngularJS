@@ -1,0 +1,34 @@
+﻿{
+  "records": [
+    {
+      "FirstName": "Bruce",
+      "LastName": "Wayne",
+      "HeroName": "Batman"
+    },
+    {
+      "FirstName": "Peter",
+      "LastName": "Parker",
+      "HeroName": "Spiderman"
+    },
+    {
+      "FirstName": "Tony",
+      "LastName": "Stark",
+      "HeroName": "Ironman"
+    },
+        {
+      "FirstName": "Thor",
+      "LastName": "Odinson",
+      "HeroName": "Thor"
+    },
+    {
+      "FirstName": "Bruce",
+      "LastName": "Banner",
+      "HeroName": "The Hulk"
+    },
+    {
+      "FirstName": "Steve",
+      "LastName": "Rogers",
+      "HeroName": "Captain America"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+<html ng-app="app">
+<head>
+    <title></title>
+    <meta charset="utf-8" />
+    <link href="css/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+    <header ng-include="'templates/header2.html'"></header>
+    <div class="container" ng-app="mainView">
+        <div ng-view>
+        </div>
+    </div>
+    <hr />
+
+    <footer ng-include="'templates/footer.html'" class="footer"></footer>
+</body>
+</html>
+<script src="Scripts/angular.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.0/angular-route.js"></script>
+<script src="app/app.module.js"></script>
+<script src="app/main.js"></script>
